@@ -1,5 +1,5 @@
 //Justin Foster - CS303 Lab 3
-//Implementing these functions using the premade stack made with vectors given to us in the module.
+//Implementing these functions using a premade stack + queue implemented with vectors
 
 #include<iostream>
 #include<vector>
